@@ -1,0 +1,7 @@
+fanin fanout error solution:
+set_param pwropt.maxFaninFanoutToNetRatio 5000
+
+conversor binario - punto flotante:
+https://www.h-schmidt.net/FloatConverter/IEEE754.html
+
+
